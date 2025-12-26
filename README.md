@@ -17,7 +17,7 @@
 </p>
 <h2></h2>
 
-# LINK DO VIDEO SALVO NO MEU CANAL: https://www.youtube.com/watch?v=Wr5wFpljcTA
+# LINK DO VIDEO SALVO NO MEU CANAL: https://www.youtube.com/watch?v=Wr5wFpljcTA OU TBM: https://www.youtube.com/watch?v=rrtbK0TeqGY
 
 - Fast & responsive Material Design UI, with optional dark mode
 - Integrated [Deauth Detector](https://github.com/spacehuhn/DeauthDetector) (with full customization)

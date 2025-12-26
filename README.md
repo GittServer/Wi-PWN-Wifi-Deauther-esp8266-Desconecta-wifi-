@@ -17,6 +17,8 @@
 </p>
 <h2></h2>
 
+# LINK DO VIDEO SALVO NO MEU CANAL: https://www.youtube.com/watch?v=Wr5wFpljcTA
+
 - Fast & responsive Material Design UI, with optional dark mode
 - Integrated [Deauth Detector](https://github.com/spacehuhn/DeauthDetector) (with full customization)
 - WiFi client mode - Access Wi-PWN on a WiFi network
